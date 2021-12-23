@@ -8,11 +8,11 @@ Ces pages seront écrites simplement en HTML/CSS et devront être transformées 
 
 Accueil (tableau de bord)		=> index.html
 
-Créer un article => creerArticle.html
-Lire les articles => lireTousArticles.html
-Lire un article =>lireArticle.html
-Modifier un article	=> modifierArticle.html
-Supprimer un article	=> supprimerArticle.html
+- Créer un article => creerArticle.html
+- Lire les articles => lireTousArticles.html
+- Lire un article =>lireArticle.html
+- Modifier un article	=> modifierArticle.html
+- Supprimer un article	=> supprimerArticle.html
 
 Connexion/déconnexion (login/logout)	=> login.html
 
